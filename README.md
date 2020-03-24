@@ -5,5 +5,6 @@ Open source "Domabesh"-alphabet font for screens.
 
 ### Examples
 ![Domabesh_Console example image](https://github.com/AurekFonts/Domabesh_Console/blob/master/IAmOne.png?raw=true)
+![Domabesh_Console example image](https://github.com/AurekFonts/Domabesh_Console/blob/master/JournalOfTheWhills.png?raw=true)
 ### Characters
 ![Domabesh_Console character set](https://github.com/AurekFonts/Domabesh_Console/blob/master/Domabesh_Console-CharacterSet-y.png?raw=true)
